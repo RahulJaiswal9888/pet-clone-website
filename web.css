@@ -1,0 +1,235 @@
+.menu{
+    display: flex;
+    background-color: rgb(51, 51, 78);
+    color:aliceblue;
+    width: 1503px;
+    
+    
+}
+.home{
+
+    margin-left: 45%;
+}
+.about{
+    margin-left: 7%;
+}
+.contact{
+    margin-left: 7%;
+}
+.cart{
+    margin-left: 7%;
+}
+.pets{
+    display: flex;
+    gap:3%;
+    margin-left: 13%;
+    margin-top: 5%;
+}
+.birds{
+    display: flex;
+    gap:3%;
+    margin-left: 13%;
+    margin-top: 5%;;
+    
+}
+.animals{
+    display: flex;
+    gap:3%;
+    margin-left: 13%;
+    margin-top: 5%;;
+}
+.logo{
+    margin-left: 3%;
+    color:orange;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.footer{
+    text-align: center;
+    margin-top: 7%;
+    border-style: groove;
+    background-color: rgb(51, 51, 78);
+    border-radius: 2px;
+    color:aliceblue;
+    border: 2px solid rgb(51, 51, 78);
+}
+a{
+    text-decoration: none;
+    color:aliceblue;
+}
+.back-video{
+    position:relative;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    background-size: contain;
+    height: 400px;
+    opacity: 80%;
+    width: 100%;
+    object-fit: fill;
+}
+.border{
+    border: 1.5px solid transparent;
+    
+}
+.border:hover{
+    border: 1.5px solid white;
+}
+
+#R{
+    margin-top: 30%;
+    margin-left: 22%;
+}
+#K{
+    margin-top: -2.7%;
+    margin-left: 49%;
+}
+#D{
+    margin-top: -2.8%;
+    margin-left: 75%;
+}
+#P{
+    margin-top: 20.7%;
+    margin-left: 22%;
+}
+#O{
+    margin-top: -2.7%;
+    margin-left: 49%;
+}
+#C{
+    margin-top: -2.7%;
+    margin-left: 75%;
+}
+#d{
+    margin-top: 20%;
+    margin-left: 22%;
+}
+#h{
+    margin-top: -2.7%;
+    margin-left: 49%;
+}
+#f{
+    margin-top: -2.7%;
+    margin-left: 75%;
+}
+.menu2{
+    display: flex;
+    background-color: rgb(51, 51, 78);
+    color:aliceblue;
+    width: 100%;
+}
+
+.image2{
+    margin-top:1%;
+    width: 100%;
+}
+.content{
+    border: 2px solid #f2f6fc;
+    height:200px;
+    background-color:#f2f6fc;
+    
+}
+.content h1{
+    margin-top: 5%;
+    margin-left: 10%;
+    text-decoration: underline;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.box1{
+    border: 2px solid #f2f6fc;
+    width:200px;
+    height:200px;
+    margin-top: -10%;
+    margin-left: 40%;
+    text-align: center;
+}
+.box1 h2{
+    margin-top: 30%;
+    color:#4A4A4A;
+}
+.box2{
+    border: 2px solid #f2f6fc;
+    margin-top: -13.35%;
+    height: 200px;
+    width: 200px;
+    margin-left: 53.5% ;
+    text-align: center;
+}
+.box2 h2{
+    margin-top: 30%;
+    color:#4A4A4A;
+}
+.box3{
+    border: 2px solid #f2f6fc;
+    margin-top: -13.35%;
+    height: 200px;
+    width: 200px;
+    margin-left: 67% ;
+    text-align: center;
+}
+.box3 h2{
+    margin-top: 30%;
+    color:#4A4A4A;
+}
+.box4{
+    border: 2px solid #f2f6fc;
+    margin-top: -13.35%;
+    height: 200px;
+    width: 200px;
+    margin-left: 80.5% ;
+    text-align: center;
+}
+.box4 h2{
+    margin-top: 30%;
+    color:#4A4A4A;
+}
+.image3{
+    margin-top: 5%;
+    border-radius: 20px;
+    width:442px;
+}
+.text{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:10%;
+}
+.text2{
+    width:700px;
+    margin-top: 5%;
+}
+.Energy img{
+    
+    height: 500px;
+    margin-top: 5%;
+    margin-left: 13%;
+    border-radius: 10px;
+}
+.input{
+    border-radius: 50px;
+    height: 30px;
+    padding: 5px;
+    text-align: center;
+    
+    
+}
+button{
+    border-radius: 50px;
+    height: 40px;
+    padding: 10px 30px 10px 30px;
+    background-color: #ff7d5a;
+    color:white;
+    cursor: pointer;
+}
+#tag{
+    margin-top: -105%;
+    text-align: center;
+    font-size: 30px;
+    color:white;
+    opacity: 80%;
+}
+.footer h1{
+    color:#ff7d5a;
+}
+.effect:hover{
+    transform: scale(1.1);
+}
